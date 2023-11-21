@@ -16,4 +16,3 @@ creating file.\n");return 1;
 fprintf(file, "This is an example file content.");
 printf("File created successfully: %s\n");
 }
-O
